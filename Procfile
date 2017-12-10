@@ -1,1 +1,1 @@
-web: gunicorn mgallery.wsgi --log-file -
+web: gunicorn MovieWebsite.wsgi --log-file -
